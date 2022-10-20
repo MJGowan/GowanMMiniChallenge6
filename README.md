@@ -1,1 +1,10 @@
 # GowanMMiniChallenge6
+Madeline Gowan
+10-20-2022
+Mini Challenge 6 - Redo
+In this program the user enters a number and the console must repeat back whether it is even or odd.
+
+Peer Reviewed by Griffin Parker
+
+This program works well, and does exactly as it is supposed to. It takes the user's input, validates that the input is 
+a valid number, and then tells the user if their number is even or odd. It then lets the user decide to play again or quit out of the program. The restart function has some quirks however. It asks if you want to play again and to say 'no' if you don't. if you type yes, then it loops, but if you type anything other than yes or no, it will say "invalid response" yet still loop correctly.
