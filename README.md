@@ -1,6 +1,6 @@
 # GowanMMiniChallenge6
 Madeline Gowan
-10-20-2022
+10-18-2022
 Mini Challenge 6 - Redo
 In this program the user enters a number and the console must repeat back whether it is even or odd.
 
